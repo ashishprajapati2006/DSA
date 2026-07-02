@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ashishprajapati2006/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashishprajapati2006/DSA/tree/master/0013-roman-to-integer) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ashishprajapati2006/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashishprajapati2006/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ashishprajapati2006/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashishprajapati2006/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
