@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ashishprajapati2006/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashishprajapati2006/DSA/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishprajapati2006/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashishprajapati2006/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishprajapati2006/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashishprajapati2006/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,4 +69,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashishprajapati2006/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashishprajapati2006/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashishprajapati2006/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashishprajapati2006/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashishprajapati2006/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ashishprajapati2006/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
