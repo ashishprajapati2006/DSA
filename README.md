@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ashishprajapati2006/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashishprajapati2006/DSA/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/ashishprajapati2006/DSA/tree/master/0509-fibonacci-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ashishprajapati2006/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashishprajapati2006/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashishprajapati2006/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/ashishprajapati2006/DSA/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishprajapati2006/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/ashishprajapati2006/DSA/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ashishprajapati2006/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/ashishprajapati2006/DSA/tree/master/1288-remove-covered-intervals) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ashishprajapati2006/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ashishprajapati2006/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
