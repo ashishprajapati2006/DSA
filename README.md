@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ashishprajapati2006/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ashishprajapati2006/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ashishprajapati2006/DSA/tree/master/0509-fibonacci-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishprajapati2006/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ashishprajapati2006/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashishprajapati2006/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashishprajapati2006/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ashishprajapati2006/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishprajapati2006/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishprajapati2006/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishprajapati2006/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashishprajapati2006/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishprajapati2006/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ashishprajapati2006/DSA/tree/master/3620-network-recovery-pathways) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ashishprajapati2006/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ashishprajapati2006/DSA/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishprajapati2006/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishprajapati2006/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishprajapati2006/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ashishprajapati2006/DSA/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ashishprajapati2006/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ashishprajapati2006/DSA/tree/master/0912-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishprajapati2006/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
