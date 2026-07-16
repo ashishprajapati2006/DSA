@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ashishprajapati2006/DSA/tree/master/0078-subsets) |
 | [0912-sort-an-array](https://github.com/ashishprajapati2006/DSA/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ashishprajapati2006/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishprajapati2006/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ashishprajapati2006/DSA/tree/master/0078-subsets) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishprajapati2006/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bucket Sort
 |  |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashishprajapati2006/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ashishprajapati2006/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
