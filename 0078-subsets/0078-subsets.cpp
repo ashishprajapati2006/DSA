@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void subsequence(vector<int>& arr, int index, int n, vector<vector<int > > &ans, vector<int>temp){
+    void subsequence(vector<int>& arr, int index, int n,vector<vector<int > >&ans, vector<int>&temp){
         if(index==n){
             ans.push_back(temp);
             return;
@@ -12,6 +12,7 @@ public:
         // include
         temp.push_back(arr[index]);
         subsequence(arr, index+1, n, ans, temp);
+        temp.pop_back();
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
