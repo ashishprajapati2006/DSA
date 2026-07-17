@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishprajapati2006/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ashishprajapati2006/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashishprajapati2006/DSA/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/ashishprajapati2006/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashishprajapati2006/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ashishprajapati2006/DSA/tree/master/0686-repeated-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishprajapati2006/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ashishprajapati2006/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/ashishprajapati2006/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ashishprajapati2006/DSA/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishprajapati2006/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -195,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ashishprajapati2006/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/ashishprajapati2006/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
