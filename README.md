@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ashishprajapati2006/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashishprajapati2006/DSA/tree/master/0078-subsets) |
 | [0912-sort-an-array](https://github.com/ashishprajapati2006/DSA/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/ashishprajapati2006/DSA/tree/master/1260-shift-2d-grid) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashishprajapati2006/DSA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/ashishprajapati2006/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashishprajapati2006/DSA/tree/master/0078-subsets) |
 ## Combinatorics
 |  |
