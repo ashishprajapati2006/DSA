@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ashishprajapati2006/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashishprajapati2006/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ashishprajapati2006/DSA/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/ashishprajapati2006/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ashishprajapati2006/DSA/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashishprajapati2006/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashishprajapati2006/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/ashishprajapati2006/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashishprajapati2006/DSA/tree/master/0078-subsets) |
+| [0486-predict-the-winner](https://github.com/ashishprajapati2006/DSA/tree/master/0486-predict-the-winner) |
 | [0912-sort-an-array](https://github.com/ashishprajapati2006/DSA/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/ashishprajapati2006/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ashishprajapati2006/DSA/tree/master/1288-remove-covered-intervals) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashishprajapati2006/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/ashishprajapati2006/DSA/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/ashishprajapati2006/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ashishprajapati2006/DSA/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishprajapati2006/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishprajapati2006/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ashishprajapati2006/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ashishprajapati2006/DSA/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashishprajapati2006/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashishprajapati2006/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ashishprajapati2006/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
