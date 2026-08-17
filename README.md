@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ashishprajapati2006/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ashishprajapati2006/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ashishprajapati2006/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ashishprajapati2006/DSA/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashishprajapati2006/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashishprajapati2006/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishprajapati2006/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ashishprajapati2006/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishprajapati2006/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/ashishprajapati2006/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/ashishprajapati2006/DSA/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashishprajapati2006/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ashishprajapati2006/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishprajapati2006/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ashishprajapati2006/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ashishprajapati2006/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ashishprajapati2006/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ashishprajapati2006/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ashishprajapati2006/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishprajapati2006/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishprajapati2006/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ashishprajapati2006/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ashishprajapati2006/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ashishprajapati2006/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ashishprajapati2006/DSA/tree/master/1563-stone-game-v) |
 ## Depth-First Search
 |  |
 | ------- |
